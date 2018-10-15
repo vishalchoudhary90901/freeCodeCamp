@@ -14,9 +14,10 @@ NOTE: If you're reporting a security issue, don't create a GitHub issue. Instead
 
 
 **Tell us about your browser and operating system:**
-* Browser Name: 
-* Browser Version: 
-* Operating System: 
+* Browser Name: chromium
+* Browser Version: 2.1.0
+* Operating System: intel
 
 
 **If possible, add a screenshot here (you can drag and drop, png, jpg, gif, etc. in this box):**
+
